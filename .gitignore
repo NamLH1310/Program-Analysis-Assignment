@@ -1,0 +1,5 @@
+src/test/*
+src/load.pl
+__pycache__
+target
+.DS_Store
